@@ -1,3 +1,3 @@
 # DataScience
-First Repository Creation
-I'm learning Data science with Python
+
+Learning Data science with Python
